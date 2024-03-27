@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\bin\Debug\net8.0\uzpitvane.exe
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\bin\Debug\net8.0\uzpitvane.deps.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\bin\Debug\net8.0\uzpitvane.runtimeconfig.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\bin\Debug\net8.0\uzpitvane.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\bin\Debug\net8.0\uzpitvane.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\uzpitvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\uzpitvane.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\uzpitvane.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\uzpitvane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\uzpitvane.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\refint\uzpitvane.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\uzpitvane.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\uzpitvane.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvane 29.03.2024\uzpitvane\obj\Debug\net8.0\ref\uzpitvane.dll
